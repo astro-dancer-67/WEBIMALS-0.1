@@ -18,4 +18,5 @@
   display: flex;
   width: 800px;
   height: 600px;
+  flex-direction: column;
 }
