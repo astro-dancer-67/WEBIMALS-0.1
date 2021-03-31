@@ -14,7 +14,7 @@
 }
 
 .vote{
-  backgroung-color: blue;
+  backgroung: blue;
   display: flex;
   width: 800px;
   height: 600px;
