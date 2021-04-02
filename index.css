@@ -1,3 +1,9 @@
 .flexbox{
   display: flex
 }
+.container{
+  width: 100px;
+  margin: 10px;
+  border 4px solid #333;
+  background-color: #dfdfdf;
+}
