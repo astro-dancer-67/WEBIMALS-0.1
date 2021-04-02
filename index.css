@@ -1,22 +1,3 @@
-.label{
-  color: blue;
-  font-family: Verdana, sans-serif;
-}
-
-.hl{
-   color: red;
-  font-family: Verdana, sans-serif;
-}
-
-.sl{
-   color: red;
-  font-family: Verdana, sans-serif;
-}
-
-.vote{
-  backgroung: blue;
-  display: flex;
-  width: 800px;
-  height: 600px;
-  flex-direction: column;
+.flexbox{
+  display: flex
 }
